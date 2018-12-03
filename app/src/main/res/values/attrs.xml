@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ComicView">
+        <attr name="toolbar_color" format="color" />
+        <attr name="separator_color" format="color" />
+        <attr name="placeholder_image_tint" format="color" />
+        <attr name="placeholder_title_color" format="color" />
+        <attr name="placeholder_reload_button_background_color" format="color" />
+        <attr name="placeholder_reload_button_title_color" format="color" />
+        <attr name="comic_description_color" format="color" />
+    </declare-styleable>
+</resources>

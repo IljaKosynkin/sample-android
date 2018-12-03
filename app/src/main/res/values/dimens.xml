@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_margin">8dp</dimen>
+    <dimen name="small_margin">4dp</dimen>
+    <dimen name="appbar_title_text_size">18sp</dimen>
+    <dimen name="title_size">16sp</dimen>
+    <dimen name="subtitle_size">12sp</dimen>
+    <dimen name="default_height">44dp</dimen>
+    <dimen name="big_margin">16dp</dimen>
+</resources>

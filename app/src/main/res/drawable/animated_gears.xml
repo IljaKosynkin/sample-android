@@ -1,0 +1,13 @@
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+                 xmlns:tools="http://schemas.android.com/tools"
+                 android:drawable="@drawable/ic_gears"
+                 tools:targetApi="lollipop">
+
+    <target
+            android:name="top_gear"
+            android:animation="@anim/top_gear_animation" />
+
+    <target
+            android:name="bot_gear"
+            android:animation="@anim/bot_gear_animation" />
+</animated-vector>

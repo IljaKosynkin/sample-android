@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sample-android</string>
+    <string name="placeholder_gears_description">Loading spinner</string>
+    <string name="xkcd">XKCD</string>
+    <string name="reload">Reload</string>
+    <string name="placeholder_error_message">We couldn\'t load comic.\nPlease, press Reload button below to try
+        again.
+    </string>
+</resources>
